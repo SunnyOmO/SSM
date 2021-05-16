@@ -8,4 +8,5 @@ public class leilei implements Serializable {
     private String id;
     private Boolean set;//你好吗
     private Date Ssd;
+    private String ddd;
 }
